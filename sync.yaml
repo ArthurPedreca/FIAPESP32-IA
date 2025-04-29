@@ -15,8 +15,8 @@ jobs:
 
       - name: Set Up Git
         run: |
-          git config user.name "SeuNome"
-          git config user.email "SeuEmail@example.com"
+          git config user.name "Arthur"
+          git config user.email "arthurpedreca@gmail.com"
 
       - name: Add Remote Upstream
         run: git remote add upstream https://github.com/norisjunior/fiapesp32
